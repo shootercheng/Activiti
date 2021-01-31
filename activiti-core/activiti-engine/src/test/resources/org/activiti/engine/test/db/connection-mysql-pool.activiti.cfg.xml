@@ -24,6 +24,7 @@
 
     <!-- Database configurations -->
     <property name="databaseSchemaUpdate" value="true" />
+    <property name="databaseCatalog" value="activiti_7" />
     
   </bean>
 
